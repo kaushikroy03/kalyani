@@ -1,0 +1,159 @@
+html, body, header, footer, article, section, div, nav, ul, ol, li, a, img, input, textarea, form, h1, h2, h3{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-size: 16px;
+	font-family: sans-serif;
+	color: #30363d;
+	letter-spacing: 0.03em;
+}
+a{
+	text-decoration: none;
+	padding: 10px;
+}
+li{
+	list-style: none;
+}
+.clearfix::after{
+	content: '';
+    clear: both;
+    display: block;
+}
+#nav{
+    box-shadow: 0px 2px 16px rgba(0,0,0,0.12);
+}
+.logo{
+	text-align: center;
+	padding: 15px;
+}
+.logo a{
+	font-size: 30px;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.5)
+}
+.logo-text{
+    font-size: 16px;
+    font-weight: 100;
+    color: #a0a0a0;
+    margin: 6px;
+}
+.menu{
+	text-align: center;
+}
+.menu-item{
+	display: inline-block;
+	font-size: 18px;
+	margin:10px 30px;
+}
+.intro{
+	width: 100%;
+}
+.intro h1,h3{
+	font-size: 26px;
+	color: #fff;
+}
+.intro span{
+	color: rgb(0, 150, 96);
+}
+.intro-text{
+	margin-top: 200px;
+	position: relative;
+	z-index: 2;
+	margin-left: 50px;
+}
+.intro-img{
+	margin-top: -250px;
+	max-width: 100%;
+}
+
+.contact-box{
+	background: #fbfbfb;
+	width: 80%;
+	height: 471px;
+	border-radius: 2px;
+	margin: auto;
+	margin-top: 35px;
+	box-shadow: 0 3px 7px rgba(0, 0, 0, 0.23);
+}
+.contact{
+	width:49%;
+	display: inline-block;
+	width:49.7%;
+	padding: 40px 50px;
+	border-radius: 2px;
+	float: left;
+}
+.contact:last-child{
+	border-left: 1px solid #ededed;
+}
+.con-item li{
+	float: left;
+	line-height: 20px;
+}
+.email{
+	padding: 12px 11px;
+}
+.con-pad{
+    padding: 0 17px;
+}
+.number li{
+	float: none;
+}
+.con-icon{
+	padding: 6px;
+}
+.map{
+    border: 1px solid #ddd;
+    height: 220px;
+    width: 428px;
+    margin: auto;
+    margin-top: 40px;
+}
+.map:hover{
+    box-shadow: 1px 2px 6px rgba(0,0,0,0.4); /*to do*/
+}
+.field{
+	width: 100%;
+    outline: none;
+    padding: 8px;
+    border-radius: 2px;
+    border: 1px solid #ccc;
+}
+.field:focus{
+    box-shadow: 0 2px 6px rgba(0,0,0,0.3); /*to do*/
+}
+.label{
+	color: #6b6b6b;
+	margin:20px 0 6px 0;
+}
+.button{
+    width: 180px;
+    border: none;
+    padding: 15px;
+    border-radius: 2px;
+    margin-top: 25px;
+    background: rgba(0, 150, 136, 0.95);
+    outline: none;
+    color: #fdfdfd;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.4);
+    cursor: pointer;
+}
+.button:hover{
+    box-shadow: 0 2px 20px rgba(0,0,0,0.4);
+    padding: 16px;
+    width: 182px;
+    margin-left: -1px; /*to do*/
+}
+.button:active{
+	width: 180px;
+	padding: 15px;
+	box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+	background: rgba(0,150,136,1); /*to do*/
+}
+textarea{
+	height: 110px;
+}
+.ribbon{
+    position: fixed;
+    right: 8px;
+    top: 10px;
+}
