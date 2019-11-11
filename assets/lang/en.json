@@ -1,0 +1,184 @@
+{
+	"en": {
+		"rehabName": "Kalyani Foundation",
+		"rehabDesc" : "Drug, Alchohol and Mental Illness Rehabilitation Center",
+		"rehabAddress" : "288/A, Nripen Sarkar Road (Sahid Nagar),<br>Kanchrapara, Bizpur, North 24 Parganas, 743145",
+		"rehabEmail" : "kalyanifoundation4help@gmail.com",
+		"phone1" : "+91-9836823922",
+		"phone2" : "+91-9830189189",
+
+		"home" : "Home",
+		"treatment" : "Treatments",
+		"story" : "Success Stories",
+		"why" : "Why Us",
+		"photo" : "Photos",
+		"about" : "About Us",
+		"contact" : "Contact Us",
+		"message" : "Send us a message",
+
+		"pcom" : "Living healthy since",
+
+		"pnm1" : "Lucky Dey, Palasi",
+		"pdt1" : "12 - 2013",
+
+		"pnm2" : "Sumit Chakraborty",
+		"pdt2" : "1 - 2014",
+
+		"pnm3" : "Kaushik Mondal, Bagula",
+		"pdt3" : "6 - 2015",
+
+		"pnm4" : "Sandip Ghosh, Barrackpore",
+		"pdt4" : "6 - 2013",
+
+		"pnm5" : "Abdul Hamid, Murshidabad",
+		"pdt5" : "8 - 2013",
+
+		"pnm6" : "Rajib Debnath, Banga",
+		"pdt6" : "7 - 2013",
+
+		"pnm7" : "Sanjib Dey, Kalna",
+		"pdt7" : "4 - 2013",
+
+		"pnm8" : "Abdul Rahaman, Barniya",
+		"pdt8" : "8 - 2013",
+
+		"pnm9" : "Valo Sarma",
+		"pdt9" : "9 - 2014",
+
+		"pnm10" : "Amit Ghosh",
+		"pdt10" : "5 - 2015",
+
+		"pnm11" : "Sougata Sarder, Baruipur",
+		"pdt11" : "1 - 2015",
+
+		"pnm12" : "Sudipto Joharder, Barasat",
+		"pdt12" : "2 - 2014",
+
+		"pnm13" : "Sumon Mohori, Banga",
+		"pdt13" : "10 - 2014",
+
+		"pnm14" : "Buddhadeb Ghosh, Barniya",
+		"pdt14" : "5 - 2013",
+
+		"pnm15" : "Rana Biswas, Barrackpopre",
+		"pdt15" : "8 - 2015",
+
+		"pnm16" : "Subhankar Bose, Kanchrapara",
+		"pdt16" : "5 - 2015",
+
+		"pnm17" : "Bijon Lahiri, Nabadwip",
+		"pdt17" : "3 - 2013",
+
+		"pnm18" : "Nitesh Biswas, Ranaghat",
+		"pdt18" : "6 - 2014",
+
+		"pnm19" : "Gopal Mondal, Bagla",
+		"pdt19" : "7 - 2015",
+
+		"pnm20" : "Arnob Ganguly, Malda",
+		"pdt20" : "8 - 2013",
+
+		"pnm21" : "Partha Chakraborty, Belgharia",
+		"pdt21" : "10 - 2015",
+
+		"pnm22" : "Somnath Saha, Chakda",
+		"pdt22" : "9 - 2014",
+
+		"pnm23" : "Koushik Thakur",
+		"pdt23" : "7 - 2013",
+
+		"pnm24" : "Pinku Sarder, Sundor Bon",
+		"pdt24" : "11 - 2015",
+
+		"pnm25" : "Joy Dasgupta, Kalyani",
+		"pdt25" : "9 - 2015",
+
+		"pnm26" : "Ajgar Sarkar, Pandua",
+		"pdt26" : "4 - 2015",
+
+		"pnm27" : "Siddhertha Biswas, Krishnanagar",
+		"pdt27" : "7 - 2014",
+
+		"pnm28" : "Suvomoy Mondal, Basirhat",
+		"pdt28" : "5 - 2013",
+
+		"pnm29" : "Chandra Koushik, Airport",
+		"pdt29" : "6 - 2014",
+
+		"pnm30" : "Souma Boron Pal, Moddhamgram",
+		"pdt30" : "6 - 2013",
+
+		"1" : "Are you an addict?",
+		"2" : "We can help you <span class='highlight-green'>recover</span> from addiction.",
+		"3" : "We care about you",
+		"4" : "With these facilities we help you to get a healthy and happy life.",
+		"5" : "Yoga and meditation",
+		"6" : "The calm breathing exercises, gentle motions, and meditative benefits of yoga can help calm your nerves, reduce cravings, and help treat any psychological distress or trauma you may feel regarding your addiction.",
+		"7" : "Consciousness Classes",
+		"8" : "The consciousness classes help you learn more about you and your life and provides you the knowledge to help you stay clean and make you aware of addiction and its bad effects on you and on our society.",
+		"9" : "Physical Check up",
+		"10" : "We all know addiction affects our body in a negative way. So physical check up becomes a necessary part when dealing with recovery to understand your physical problems and take steps to cure those.",
+		"11" : "Counselling",
+		"12" : "Counselling in addiction treatment provides you support, education to improve your motivation for recovery, to make you Learn the skills for stopping alcohol abuse and avoiding relapse and many more.",
+		"13" : "Psychiatric Treatment",
+		"14" : "Addiction doesn't only harms our body. It also harms our brain. To make you mentally healthy we take you throgh this treatment process.",
+		"15" : "Indoor Games and Hobbies",
+		"16" : "This part is completely for your recreation purpose. We want you to be in a place where you feel comfortable and happy. This helps you build a good habit and replace the bad ones.",
+		"17" : "Tell us if you don't want your photo to be displayed here. We'll remove that.",
+		"18" : "Fresh and open air is one of the key to get well. We offer you a open environmment to support your physical and mental health.",
+		"19" : "Recovery is not only giving up an addiction. It is also about cleaning your mind, soul and spirit. We help you to create a new you.",
+		"20" : "Experienced professionals will always be with you to give you the best treatment.",
+		"21" : "Regular follow up by doctors to take care of your physical condition as well as mental condition.",
+		"22" : "We organize consciousness classes and seminars to keep you motivated towards your recovery.",
+		"23" : "24 hours care.",
+		"24" : "We offer you a place where you can practice your hobies like gardening, fishkeeping etc.",
+		"26" : "You can play indoor games and watch movies inside of our facilty.",
+		"26" : "Good news for the guardians of patients. We always keep eyes on your loved ones and have a tight security in order to prevent them from escaping from our facility and relapse.",
+		"27" : "Awarness program in our rehab center by West Bengal Forum for De-addiction & Rehabilitation",
+		"28" : "Rehabilitation Center Owner and his guard dog",
+		"29" : "Birthday celebration of patients of rehab",
+		"30" : "Birthday celebration of owner of rehab",
+		"31" : "Rehab's aquarium videos",
+		"32" : "At Kalyani Foundation, each client benefits from a highly personalized recovery plan developed by our expert, multidisciplinary team of medical professionals. Our integrative approach combines evidence-based treatment with complementary holistic therapies designed to heal mind, body, and spirit and encourage an overall healthy lifestyle.",
+		"33" : "Addiction Recovery is promoting healthy lifestyle choices that will help patients maintain life long sobriety.",
+		"34" : "Our Treatment Program",
+		"35" : "Patients stay in our addiction rehabilitation centre based in Kalyani, Nadia. They will participate in a 5-7 day per week program. Included in the treatment are several hours of daily therapy and treatment for their personal drug or alcohol rehabilitation. They will also receive 24 hour support from our staffs.",
+		"36" : "The objectives of this addiction rehabilitation program are",
+		"37" : "support patients through the challenge of transitioning from addiction to sober living.",
+		"38" : "dealing with withdrawal.",
+		"39" : "deprogramming destructive behavior patterns.",
+		"40" : "What to Expect",
+		"41" : "Entering a drug and alcohol rehabilitation program can be an intimidating experience. The staffes understand this and we are here to help in any way possible.",
+		"42" : "We promote a community atmosphere to avoid patients growing to feel institutionalized and our staff members provide 24 hour assistance allowing patients to obtain professional care at anytime. A typical day in our drug and alcohol rehabilitation program could include -",
+		"43" : "Individual Therapy",
+		"44" : "Group Therapy",
+		"45" : "Family Counseling",
+		"46" : "Substance Abuse Education",
+		"47" : "Lectures and Presentations",
+		"48" : "Counselling",
+		"49" : "Physical Checkup",
+		"50" : "Life Skills Training",
+		"51" : "Recreational Activities",
+		"52" : "Music Therapy",
+		"53" : "Art Therapy",
+		"54" : "Yoga",
+		"55" : "Fitness Training",
+		"56" : "building habits that will support their sobriety.",
+		"57" : "Name",
+		"58" : "Number / Email",
+		"59" : "Message",
+		"60" : "We are Kalyani Foundation, one of the best caring and affordable drug, alchohol and mental illness rehabilitation centre in West Bengal.",
+		"61" : "Our Mission",
+		"62" : "In todays world addiction is becoming one of the major problem for our society and our lives. Especially the youths, who are the future of our country are being addicted to substances. Work pressure, living standards, unemployment, family problems, depression are some of the reasons to push someone into a wrong direction. But once they got into it, they start to figure out that they are being addicted and ruining their life day by day. We know they try to come to back to a sober life but they can't. Our mission is simple, helping them coming back and get a healthy lifestyle.",
+		"63" : "people don't understand why or how other people become addicted to drugs and why they are not quitting it. They may mistakenly think that addict lack moral principles or willpower and that they could stop their drug use simply by choosing to. But in reality, drug addiction is a complex disease, and quitting takes more than good intentions or a strong will. Our work is to give them the treatment that they actually need.",
+		"64" : "Our purpose is to make a drug free society and that's what we are constantly trying to do since our inception. Now our rehab centre is situated in a pleasant environment at Kalyani, Nadia.",
+		"65" : "Our empathetic, highly trained, experienced, and licensed alcohol and drug counselors have successfully treated many people and built a long record of helping individuals through rehab.",
+		"66" : "If you or a loved one are suffering from an addiction, contact us today! We are available 24 hours a day, 7 days a week. Start your path to recovery today!",
+		"67" : "Inside Our Rehabilitation Center",
+		"68" : "We have both normal treatment facility for all and special treatment facility.",
+		"69" : "Treatment types",
+		"70" : "As we deal with people from different societies, it is our duty to satisfy their needs or requirements. Thus we provide two types of treatment program.",
+		"71" : "1. Normal treatment facility - for all.",
+		"72" : "2. Special treatment facility - if asked for it."
+	}
+}
